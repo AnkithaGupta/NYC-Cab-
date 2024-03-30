@@ -1,5 +1,5 @@
 # NYC-Cab-
-NYC yellow taxi can analysis
+NYC yellow taxi cab analysis
 # Introduction
 To understand the factors driving these changes and identify strategies for yellow taxis to remain competitive, we have conducted a comprehensive analysis of trip records for yellow taxis, Uber, and Lyft. Our analysis focuses on key aspects such as fares, service coverage & availability, and operational efficiency.
 We will also provide data-driven recommendations for the yellow taxi industry by presenting our findings, highlighting the areas where yellow taxis can leverage their unique strengths and address potential weaknesses.
